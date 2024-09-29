@@ -91,7 +91,7 @@
 
       .links__item {
         height: 50px;
-        margin: 0px 75px 10px 75px;
+        margin: 0px 0px 5px 0px;
         justify-content: center;
         display: flex;
         font-size: 24px;
@@ -109,11 +109,11 @@
         justify-content: center;
         align-self: center;
         background: #ffffff;
-        padding: 5px 10px;
+        padding: 5px 20px;
         border-style: solid;
         border-color: #2b2b2b;
         border-width: 2px;
-        border-radius: 25px;
+        border-radius: 5px;
       }
 
       .urlbutton:hover,
